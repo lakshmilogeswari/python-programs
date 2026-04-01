@@ -1,0 +1,4 @@
+name="kasthuri"
+age=21
+print(name)
+print(age)
